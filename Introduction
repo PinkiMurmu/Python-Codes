@@ -15,3 +15,9 @@ It is used for:
     -software development,
     -mathematics,
     -system scripting.
+
+Q. What is a Module?
+        -Consider a module to be the same as a code library.
+        -A file containing a set of functions you want to include in your application.
+Python also has many modules such as math module and pandas.
+We can import the modules in python through import function in python.
